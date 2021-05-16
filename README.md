@@ -22,7 +22,7 @@
 - [x] Armazenar e exibir as informações coletadas;
 - [x] Mostrar na tela a localização do centro da pupila para auxiliar nos testes;
 - [x] Programar um sistema de calibração para melhorar os resultados;
-- [ ] Associar a movimentação dos olhos há um sistema de movimentação de Mouse;
+- [ ] Associar a movimentação dos olhos a um sistema de movimentação de Mouse;
 
 ## Requisitos 
 
